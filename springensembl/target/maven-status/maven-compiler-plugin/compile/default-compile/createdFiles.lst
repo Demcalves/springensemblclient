@@ -1,0 +1,6 @@
+ensembl\EnsemblClient.class
+ensembl\service\GeneService.class
+ensembl\repository\EnsemblRepository.class
+ensembl\controller\GeneController.class
+ensembl\entity\GeneTranscript.class
+ensembl\service\EnsemblService.class
